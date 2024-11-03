@@ -19,8 +19,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) 
 
 ## 🌐 Socials:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?logo=LeetCode&logoColor=white)]
-(https://leetcode.com/u/GHoSt17)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-ff8c00?logo=LeetCode&logoColor=white)](https://leetcode.com/u/GHoSt17)
 
 <!--
 **Ave-Sergeev/Ave-Sergeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
