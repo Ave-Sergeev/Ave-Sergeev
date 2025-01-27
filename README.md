@@ -1,4 +1,4 @@
-## Hi, my name is Artem, i am a backend developer using the Scala language 👋
+## Hi, my name is Artem, i am a backend developer using the Scala/Rust language 👋
 
 ---
 
