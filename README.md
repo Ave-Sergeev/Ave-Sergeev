@@ -1,4 +1,5 @@
-## Hi, my name is Artem, I'm a backend developer using Scala in my work (and Rust as a hobby)👋
+## Hi, my name is XX 👋
+I'm a backend developer using Scala in my work (and Rust as a hobby)
 
 ---
 
