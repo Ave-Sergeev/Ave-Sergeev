@@ -1,5 +1,4 @@
 <h2> Hi, my name is Artem 👋 <br /> I'm a backend developer using Scala in my work (and Rust as a hobby) </h2>
-
 ---
 
 # 💻 Tech Stack:
